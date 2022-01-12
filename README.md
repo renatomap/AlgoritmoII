@@ -1,2 +1,2 @@
 # AlgoritmoII
- Resloções das questões no replit.com
+ Resoluções das questões no replit.com
